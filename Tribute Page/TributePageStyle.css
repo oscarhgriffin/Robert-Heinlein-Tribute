@@ -1,0 +1,60 @@
+header {
+    display: flex;
+    align-items: flex-end;
+    height: 100px;
+    background: linear-gradient(35deg, #90A4AE, #90A4AE, #B0BEC5, #D6DBDF)
+    color: #000000;
+    margin: 10px 50px 0px 50px;
+}
+
+#roundedcorners {
+    border-radius: 25px;
+}
+body {
+    background-color: #d6dbdf;
+    background: linear-gradient(35deg, #90A4AE, #90A4AE, #B0BEC5, #D6DBDF)
+}
+.boxcontainer {
+    display: flex;
+    margin: 50px 50px 50px 50px;
+}
+.boxcontainer div {
+    height: 250px;
+    padding: 10px;
+}
+.container2 {
+    display: flex;
+    margin: 50px 50px 50px 50px;
+
+}
+
+.container2 div {
+    height: 250px;
+    padding: 10px;
+}
+
+.box1 {
+    width: 70%;
+    height: 70%;
+    background-color: #fa5454;
+    margin: 20px;
+}
+
+.box2 {
+    width: 70%;
+    height: 50%;
+    background-color: rgb(80, 202, 176);
+    margin: 20px;
+}
+
+.box3 {
+    width: 70%;
+    height: 50%;
+    background-color: #4340f3;
+    margin: 20px;
+}
+
+p {
+    color: #000000;
+    font-family:Georgia, 'Times New Roman', Times, serif
+}
